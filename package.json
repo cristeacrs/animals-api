@@ -1,0 +1,13 @@
+{
+  "name": "animals-api",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "lowdb": "^7.0.1"
+  }
+}

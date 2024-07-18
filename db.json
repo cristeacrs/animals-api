@@ -1,0 +1,31 @@
+{
+  "dogs": [
+    {
+      "name": "REX",
+      "description": "I like dogs",
+      "type": "dogs"
+    },
+    {
+      "name": "REX",
+      "description": "I like dogs",
+      "type": "dogs"
+    },
+    {
+      "name": "Lessie",
+      "description": "I like dogs",
+      "type": "dogs"
+    },
+    {
+      "name": "Lessie",
+      "description": "I like dogs",
+      "type": "dogs"
+    },
+    {
+      "name": "Puppy",
+      "description": "I like dogs",
+      "type": "dogs"
+    }
+  ],
+  "cats": [],
+  "others": []
+}
